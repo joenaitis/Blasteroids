@@ -1,4 +1,3 @@
 # Blasteroids
-# I am not sure why, but the program is having trouble drawing asteroids (and missiles since they are in the same class)
-# So I have commented out where asteroids are drawn at line 339 under def process_sprite_group
-# To view the program fully working, check this link:  https://py2.codeskulptor.org/#user49_YedwzqGkFE_2.py
+# I am not sure why, but the program is having trouble drawing asteroids (and missiles since they are in the same class).  For now, I have commented out where asteroids are drawn at line 339 under def process_sprite_group
+# The program can also be viewed at the following link:  https://py2.codeskulptor.org/#user49_YedwzqGkFE_2.py.  The link takes you to CodeSkulptor, an interactive, web-based Python programming environment that allows Python code to be run in a web browser. After the program was working, I ran into an issue in which the spaceship remained in thrust or turned left when the forward arrow key or left arrow key were pressed.  I need to debug this issue and suspect it is an issue with the keyup function, the decrement function, or the update position function.
