@@ -8,4 +8,4 @@ My next step on this program is to add the image of an explosion when a missile 
 
 Additionally, I uncovered another bug when the program was implemented in the IDE PyCharm Community. Specifically the program is having trouble drawing asteroids (and missiles since they are in the same class).  For now, I have commented out where asteroids are drawn at line 339 under def process_sprite_group.
 
-See my code in this repository or click https://py2.codeskulptor.org/#user49_YedwzqGkFE_1.py to run this program in CodeSkulptor.
+See my code in this repository or click https://py2.codeskulptor.org/#user49_YedwzqGkFE_2.py to run this program in CodeSkulptor.
